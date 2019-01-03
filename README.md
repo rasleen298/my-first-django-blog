@@ -8,7 +8,7 @@ Hosted for testing purpose using PythonAnywhere.
 ## Creating a virtual environment (Here, is myvenv):
   ```python3 -m venv myvenv
   
-  For Windows:           C:\Users\Name\<yourdjangodirectory> myvenv\Scripts\activate
+  For Windows:           C:\\Users\Name\<yourdjangodirectory> myvenv\Scripts\activate
   
   For Mac OSX and Linux: source myvenv/bin/activate
   ```
