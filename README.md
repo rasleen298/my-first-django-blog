@@ -20,7 +20,7 @@ Hosted for testing purpose using PythonAnywhere.
 
 ```
 
-**Run:
+Run:
 ```
   (myvenv) ~$ python -m pip install --upgrade pip
    pip install -r requirements.txt
