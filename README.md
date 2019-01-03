@@ -1,6 +1,6 @@
 # my-first-django-blog
 
-This web application creates an very basic blog site using Django. 
+This web application creates a very basic blog site using Django. 
 The site allows blog authors to create text-only blogs using the Admin site, and any logged in user to add posts.
 Hosted for testing purpose using PythonAnywhere.
 
