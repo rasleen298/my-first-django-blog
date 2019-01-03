@@ -6,22 +6,22 @@ Hosted for testing purpose using PythonAnywhere.
 
 # Installation
 ## Creating a virtual environment (Here, is myvenv):
-  '''python3 -m venv myvenv
+  ```python3 -m venv myvenv
   
   For Windows:           C:\Users\Name\djangogirls> myvenv\Scripts\activate
   
   For Mac OSX and Linux: source myvenv/bin/activate
-  '''
+  ```
 ## Installing Django
-'''
+```
     <yourdjangodirectory>
            └───requirements.txt
  Add 'Django~=2.0.6' in the file 'requirements.txt'
 
-'''
+```
 
-Run:
-'''
+### Run:
+```
   (myvenv) ~$ python -m pip install --upgrade pip
    pip install -r requirements.txt
-'''
+```
